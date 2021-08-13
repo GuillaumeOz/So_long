@@ -1,0 +1,26 @@
+/* XPM */
+static char *ab45b72b79f94245ed8903a0adbcf2e5IR0v55ybIYQuixfO[] = {
+/* columns rows colors chars-per-pixel */
+"128 16 4 1 ",
+"  c #000000",
+". c #B86F50",
+"X c #E4A672",
+"o c #EAD4AA",
+/* pixels */
+"                                                                                                                                ",
+"                                                                                                                                ",
+"                                                                                                                                ",
+"                                                                                                                                ",
+"      ....                                                                                                            ....      ",
+"     ..XX..           ....            ....                                            ....            ....           ..XX..     ",
+"    ..XooX..         ..XX..          ......           ....            ....           ..XX..          ..XX..         ..XooX..    ",
+"    .XooooX.        ..XooX..        ...XX...         ..XX..          ..XX..         ..XooX..        ..XooX..        .XooooX.    ",
+"    .XooooX.        .XooooX.        ..XooX..        ..XooX..        ..XooX..        .XooooX.        .XooooX.        .XooooX.    ",
+"    ..XooX..        .XooooX.        .XooooX.        .XooooX.        .XooooX.        .XooooX.        .XooooX.        ..XooX..    ",
+"     ..XX..         ..XooX..        .XooooX.        .XooooX.        .XooooX.        ..XooX..        ..XooX..        ...XX...    ",
+"      ....           ..XX..         ..XooX..        ..XooX..        ..XooX..        ...XX...         ..XX..          ......     ",
+"                      ....           ..XX..          ..XX..          ..XX..          ......           ....            ....      ",
+"                                      ....            ....            ....            ....                                      ",
+"                                                                                                                                ",
+"                                                                                                                                "
+};

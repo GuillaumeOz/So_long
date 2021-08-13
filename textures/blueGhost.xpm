@@ -1,0 +1,28 @@
+/* XPM */
+static char *a76dc55fe6404f1bbb45ea67435a7145BbMwBY5LZMewjaqp[] = {
+/* columns rows colors chars-per-pixel */
+"128 16 6 1 ",
+"  c #000000",
+". c #3F2832",
+"X c #124E89",
+"o c #0095E9",
+"O c #2CE8F5",
+"+ c white",
+/* pixels */
+"     XXXXXX                                                                                                          XXXXXX     ",
+"   XXooooooXX        XXXXXX          XXXXXX                                          XXXXXX          XXXXXX        XXooooooXX   ",
+"  XoOOOOOOOOoX     XXooooooXX      XXXXXXXXXX        XXXXXX          XXXXXX        XXooooooXX      XXooooooXX     XoOOOOOOOOoX  ",
+"  XOOOOOOOOOOX    XoOOOOOOOOoX    XXXooooooXXX     XXooooooXX      XXooooooXX     XoOOOOOOOOoX    XoOOOOOOOOoX    XOOOOOOOOOOX  ",
+" XoOOOOOOOOOOoX   XOOOOOOOOOOX    XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX    XOOOOOOOOOOX    XOOOOOOOOOOX   XoOOOOOOOOOOoX ",
+" XoOX..ooX..OoX  XoOOOOOOOOOOoX  XXOOOOOOOOOOXX   XOOOOOOOOOOX    XOOOOOOOOOOX   XoOOOOOOOOOOoX  XoOOOOOOOOOOoX  XoOX..ooX..OoX ",
+" XoOO..ooO..OoX  XoOX..ooX..OoX  XoOOOOOOOOOOoX  XoOOOOOOOOOOoX  XoOOOOOOOOOOoX  XoOX..ooX..OoX  XoOX..ooX..OoX  XoOO..ooO..OoX ",
+" XoO+XXoo+XXOoX  XoOO..ooO..OoX  XoOX..ooX..OoX  XoOX..ooX..OoX  XoOX..ooX..OoX  XoOO..ooO..OoX  XoOO..ooO..OoX  XoO+XXoo+XXOoX ",
+" XoOOOOOOOOOOoX  XoO+XXoo+XXOoX  XoOO..ooO..OoX  XoOO..ooO..OoX  XoOO..ooO..OoX  XoO+XXoo+XXOoX  XoO+XXoo+XXOoX  XoOOOOOOOOOOoX ",
+"  XoOOOOOOOOoX   XoOOOOOOOOOOoX  XoO+XXoo+XXOoX  XoO+XXoo+XXOoX  XoO+XXoo+XXOoX  XoOOOOOOOOOOoX  XoOOOOOOOOOOoX   XoOOOOOOOOoX  ",
+"  XoOOOOOOOOoX    XoOOOOOOOOoX   XoOOOOOOOOOOoX  XoOOOOOOOOOOoX  XoOOOOOOOOOOoX  XXoOOOOOOOOoXX   XoOOOOOOOOoX    XoOOOOOOOOoX  ",
+"   XoOoOOoOoX     XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX     XoOoOOoOoX   ",
+"   XooXooXooX      XoOoOOoOoX     XoOOOOOOOOoX    XoOOOOOOOOoX    XoOOOOOOOOoX    XXoOoOOoOoXX     XoOoOOoOoX      XooXooXooX   ",
+"    XX XX XX       XooXooXooX      XoOoOOoOoX      XoOoOOoOoX      XoOoOOoOoX      XooXooXooX      XooXooXooX       XX XX XX    ",
+"                    XX XX XX       XooXooXooX      XooXooXooX      XooXooXooX      XXXXXXXXXX       XX XX XX                    ",
+"                                    XX XX XX        XX XX XX        XX XX XX        XX XX XX                                    "
+};
